@@ -1,0 +1,67 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: proj4.aux
+The style file: czplain.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Database file #1: reference.bib
+Warning--to sort, need author or key in Hieroglyfy_Casopis
+Warning--empty author in Hieroglyfy_Casopis
+Warning--empty editor and organization in Hieroglyfy_Casopis
+Warning--empty booktitle in Hieroglyfy_Casopis
+Warning--empty edition in Hieroglyfy_Casopis
+Warning--empty pages in Hieroglyfy_Casopis
+Warning--empty edition in Kniha
+Warning--empty edition in Anglicka_Kniha
+Warning--empty edition in Thomas_Description
+Warning--empty edition in Jean_Description
+Warning--empty year in Wiki_Hieroglyfy
+Warning--empty year and revised in Wiki_Hieroglyfy
+Warning--empty year in Wiki_Egyptske_Pismo
+Warning--empty year and revised in Wiki_Egyptske_Pismo
+You've used 10 entries,
+            3461 wiz_defined-function locations,
+            779 strings with 5908 characters,
+and the built_in function-call counts, 3988 in all, are:
+= -- 289
+> -- 114
+< -- 31
++ -- 29
+- -- 24
+* -- 201
+:= -- 517
+add.period$ -- 35
+call.type$ -- 10
+change.case$ -- 56
+chr.to.int$ -- 62
+cite$ -- 24
+duplicate$ -- 256
+empty$ -- 465
+format.name$ -- 18
+if$ -- 935
+int.to.chr$ -- 0
+int.to.str$ -- 10
+missing$ -- 0
+newline$ -- 70
+num.names$ -- 18
+pop$ -- 90
+preamble$ -- 1
+purify$ -- 29
+quote$ -- 0
+skip$ -- 203
+stack$ -- 0
+substring$ -- 224
+swap$ -- 69
+text.length$ -- 5
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 22
+warning$ -- 14
+while$ -- 30
+width$ -- 12
+write$ -- 125
+(There were 14 warnings)

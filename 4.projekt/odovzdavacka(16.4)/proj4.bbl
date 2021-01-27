@@ -1,0 +1,75 @@
+\makeatletter
+\@ifundefined{url}{\def\url#1{{\tt
+  $<$#1$>$}}}{\DeclareUrlCommand\url{\def\UrlLeft{<} \def\UrlRight{>}
+  \urlstyle{tt}}}
+\makeatother
+\begin{thebibliography}{10}
+
+\bibitem{Hieroglyfy_Casopis}
+HIEROGLYPHS.
+\newblock In.
+\newblock New York: The Bilingual Review, 2003- . Vychádza mesačne.
+\newblock ISSN 0094-5366.
+
+\bibitem{Kniha}
+{\sc\bgroup}Allen{\egroup}, J.~P.
+\newblock {\em An Introduction to the Language of Hieroglyphs}.
+\newblock New York: Cambridge University Press, 2010.
+\newblock ISBN 978-0-531-51796-6.
+
+\bibitem{citanie_hieroglyfov}
+{\sc\bgroup}Felgr{\egroup}, P.
+\newblock {\em Jak číst hieroglyfy}.
+\newblock 2012.
+\newblock Dostupn{\'{e}} na:  $<${\tt
+  http://www.starovekyegypt.net/jak-cist-hieroglyfy}$>$.
+
+\bibitem{bc_praca_2}
+{\sc\bgroup}Jeřábková{\egroup}, E.
+\newblock {\em Dějiny starověké knižní kultury Egypta}.
+\newblock Plzeň: Západočeská univerzita v Plzni, 2012.
+\newblock Diplomová práce.
+
+\bibitem{bc_praca_1}
+{\sc\bgroup}Klečková{\egroup}, V.
+\newblock {\em Dějiny starověkých knižních kultur Egypta}.
+\newblock Plzeň: Západočeská univerzita v Plzni, 2015.
+\newblock Diplomová práce.
+
+\bibitem{Anglicka_Kniha}
+{\sc\bgroup}Mark Collier{\egroup}, B.~M.
+\newblock {\em How to Read Egyptian Hieroglyphs}.
+\newblock Berkeley: British Museum Press, 1998.
+\newblock ISBN 0-520-23949-0.
+
+\bibitem{Thomas_Description}
+{\sc\bgroup}Oldham{\egroup}, Y.
+\newblock Thomas Young.
+\newblock {\em British Medical Journal}.
+\newblock 1974, roč.~4, č.~5937.
+\newblock S.~150.
+\newblock ISSN 0007-1447.
+
+\bibitem{Jean_Description}
+{\sc\bgroup}Robinson{\egroup}, A.
+\newblock Jean-François Champollion and ancient Egyptian embalming.
+\newblock {\em The Lancet}.
+\newblock 2012, roč.~379, č.~9828.
+\newblock S.~1782--1783.
+\newblock ISSN 0140-6736.
+
+\bibitem{Wiki_Hieroglyfy}
+{\sc\bgroup}Wikipedia{\egroup}.
+\newblock {\em Egyptian hieroglyphs} [online].
+\newblock [cit. 14.~dubna 2016].
+\newblock Dostupn{\'{e}} na:  $<${\tt http://en.wikipedia.org/wiki
+  Egyptian\_hieroglyphs}$>$.
+
+\bibitem{Wiki_Egyptske_Pismo}
+{\sc\bgroup}Wikipedia{\egroup}.
+\newblock {\em Egyptské hieroglyfy} [online].
+\newblock [cit. 14.~dubna 2016].
+\newblock Dostupn{\'{e}} na:  $<${\tt
+  http://cs.wikipedia.org/wiki/Egyptske\_hieroglyfy}$>$.
+
+\end{thebibliography}
